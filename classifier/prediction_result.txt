@@ -34,6 +34,13 @@ The average accuracy of n = 8, lam = 4: 0.806187981494
 The average mcc of n = 8, lam = 4: 0.520908180826
 The average f1 score of n = 8, lam = 4: 0.624673929124
 
+The average accuracy of n = 9, lam = 3: 0.801520069
+The average mcc of n = 9, lam = 3: 0.511531409556
+The average f1 score of n = 9, lam = 3: 0.617792029861
+
+The average accuracy of n = 10, lam = 3: 0.803781777913
+The average mcc of n = 10, lam = 3: 0.513915401907
+The average f1 score of n = 10, lam = 3: 0.617826741642
 
 For the right matrix in pssm file:
 
@@ -69,3 +76,10 @@ The average accuracy of n = 8, lam = 4: 0.803050839336
 The average mcc of n = 8, lam = 4: 0.508746808962
 The average f1 score of n = 8, lam = 4: 0.611412690548
 
+The average accuracy of n = 9, lam = 3: 0.802030379019
+The average mcc of n = 9, lam = 3: 0.50478435096
+The average f1 score of n = 9, lam = 3: 0.61041220844
+
+The average accuracy of n = 10, lam = 3: 0.801957759002
+The average mcc of n = 10, lam = 3: 0.504287120787
+The average f1 score of n = 10, lam = 3: 0.604574846186
