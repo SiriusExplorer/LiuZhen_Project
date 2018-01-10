@@ -1,8 +1,7 @@
 For trainset
 
-The number of different kinds of locations is: 25
+The number of different kinds of locations is: 24
 The number of proteins located at Cell.membrane-M is 1065
-The number of proteins located at Cytoplasm-Nucleus-U is 145
 The number of proteins located at Cytoplasm-S is 2023
 The number of proteins located at Endoplasmic.reticulum-M is 557
 The number of proteins located at Endoplasmic.reticulum-S is 53
@@ -28,6 +27,7 @@ The number of proteins located at Plastid-S is 121
 The number of proteins located at Plastid-U is 286
 
 For testset
+
 The number of different kinds of locations is: 22
 The number of proteins located at Cell.membrane-M is 273
 The number of proteins located at Cytoplasm-S is 507
