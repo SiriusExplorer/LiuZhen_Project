@@ -1,0 +1,53 @@
+For trainset
+
+The number of different kinds of locations is: 25
+The number of proteins located at Cell.membrane-M is 1065
+The number of proteins located at Cytoplasm-Nucleus-U is 145
+The number of proteins located at Cytoplasm-S is 2023
+The number of proteins located at Endoplasmic.reticulum-M is 557
+The number of proteins located at Endoplasmic.reticulum-S is 53
+The number of proteins located at Endoplasmic.reticulum-U is 72
+The number of proteins located at Extracellular-S is 1501
+The number of proteins located at Golgi.apparatus-M is 242
+The number of proteins located at Golgi.apparatus-S is 1
+The number of proteins located at Golgi.apparatus-U is 41
+The number of proteins located at Lysosome/Vacuole-M is 194
+The number of proteins located at Lysosome/Vacuole-S is 4
+The number of proteins located at Lysosome/Vacuole-U is 58
+The number of proteins located at Mitochondrion-M is 411
+The number of proteins located at Mitochondrion-S is 194
+The number of proteins located at Mitochondrion-U is 594
+The number of proteins located at Nucleus-M is 99
+The number of proteins located at Nucleus-S is 108
+The number of proteins located at Nucleus-U is 3017
+The number of proteins located at Peroxisome-M is 37
+The number of proteins located at Peroxisome-S is 6
+The number of proteins located at Peroxisome-U is 81
+The number of proteins located at Plastid-M is 197
+The number of proteins located at Plastid-S is 121
+The number of proteins located at Plastid-U is 286
+
+For testset
+The number of different kinds of locations is: 22
+The number of proteins located at Cell.membrane-M is 273
+The number of proteins located at Cytoplasm-S is 507
+The number of proteins located at Endoplasmic.reticulum-M is 158
+The number of proteins located at Endoplasmic.reticulum-S is 6
+The number of proteins located at Endoplasmic.reticulum-U is 8
+The number of proteins located at Extracellular-S is 377
+The number of proteins located at Golgi.apparatus-M is 58
+The number of proteins located at Golgi.apparatus-S is 1
+The number of proteins located at Golgi.apparatus-U is 11
+The number of proteins located at Lysosome/Vacuole-M is 49
+The number of proteins located at Lysosome/Vacuole-U is 15
+The number of proteins located at Mitochondrion-M is 104
+The number of proteins located at Mitochondrion-S is 39
+The number of proteins located at Mitochondrion-U is 155
+The number of proteins located at Nucleus-M is 22
+The number of proteins located at Nucleus-S is 26
+The number of proteins located at Nucleus-U is 758
+The number of proteins located at Peroxisome-M is 11
+The number of proteins located at Peroxisome-U is 19
+The number of proteins located at Plastid-M is 64
+The number of proteins located at Plastid-S is 33
+The number of proteins located at Plastid-U is 53
