@@ -1,0 +1,77 @@
+For the left matrix in pssm file:
+
+The average accuracy of n = 1, lam = 39: 0.820338662706
+The average mcc of n = 1, lam = 39: 0.557144036896
+The average f1 score of n = 1, lam = 39: 0.661098711818
+
+The average accuracy of n = 2, lam = 19: 0.81661954884
+The average mcc of n = 2, lam = 19: 0.548089550824
+The average f1 score of n = 2, lam = 19: 0.651179897688
+
+The average accuracy of n = 3, lam = 12: 0.818223524839
+The average mcc of n = 3, lam = 12: 0.551602812891
+The average f1 score of n = 3, lam = 12: 0.652730228574
+
+The average accuracy of n = 4, lam = 9: 0.81603512807
+The average mcc of n = 4, lam = 9: 0.547936084494
+The average f1 score of n = 4, lam = 9: 0.645983397116
+
+The average accuracy of n = 5, lam = 7: 0.811002784477
+The average mcc of n = 5, lam = 7: 0.533577805074
+The average f1 score of n = 5, lam = 7: 0.63634837151
+
+The average accuracy of n = 6, lam = 5: 0.81435815937
+The average mcc of n = 6, lam = 5: 0.541914109545
+The average f1 score of n = 6, lam = 5: 0.643439162446
+
+The average accuracy of n = 7, lam = 4: 0.812169283436
+The average mcc of n = 7, lam = 4: 0.536069836434
+The average f1 score of n = 7, lam = 4: 0.637930547786
+
+The average accuracy of n = 8, lam = 4: 0.806187981494
+The average mcc of n = 8, lam = 4: 0.520908180826
+The average f1 score of n = 8, lam = 4: 0.624673929124
+
+
+For the right matrix in pssm file:
+
+The average accuracy of n = 1, lam = 39: 0.82070367945
+The average mcc of n = 1, lam = 39: 0.555063140149
+The average f1 score of n = 1, lam = 39: 0.65905982505
+
+The average accuracy of n = 2, lam = 19: 0.813700000532
+The average mcc of n = 2, lam = 19: 0.537431149563
+The average f1 score of n = 2, lam = 19: 0.642385301413
+
+The average accuracy of n = 3, lam = 12: 0.820848759763
+The average mcc of n = 3, lam = 12: 0.553330649472
+The average f1 score of n = 3, lam = 12: 0.651744281434
+
+The average accuracy of n = 4, lam = 9: 0.814211535083
+The average mcc of n = 4, lam = 9: 0.536231289011
+The average f1 score of n = 4, lam = 9: 0.636808148371
+
+The average accuracy of n = 5, lam = 7: 0.80903112971
+The average mcc of n = 5, lam = 7: 0.521791551009
+The average f1 score of n = 5, lam = 7: 0.624322678125
+
+The average accuracy of n = 6, lam = 5: 0.810345211285
+The average mcc of n = 6, lam = 5: 0.528418991163
+The average f1 score of n = 6, lam = 5: 0.628627286955
+
+The average accuracy of n = 7, lam = 4: 0.80881353586
+The average mcc of n = 7, lam = 4: 0.523572035067
+The average f1 score of n = 7, lam = 4: 0.624155876763
+
+The average accuracy of n = 8, lam = 4: 0.803050839336
+The average mcc of n = 8, lam = 4: 0.508746808962
+The average f1 score of n = 8, lam = 4: 0.611412690548
+
+The average accuracy of n = 9, lam = 3: 0.802030379019
+The average mcc of n = 9, lam = 3: 0.50478435096
+The average f1 score of n = 9, lam = 3: 0.61041220844
+
+The average accuracy of n = 10, lam = 3: 0.801957759002
+The average mcc of n = 10, lam = 3: 0.504287120787
+The average f1 score of n = 10, lam = 3: 0.604574846186
+

@@ -1,0 +1,9 @@
+For trainset:
+	The minimum of the protein sequences length is: 40
+	The maximum of the protein sequences length is: 13100
+	The average of the protein sequences length is: 521.07
+For testset:
+	The minimum of the protein sequences length is: 40
+	The maximum of the protein sequences length is: 5654
+	The average of the protein sequences length is: 542.41
+
