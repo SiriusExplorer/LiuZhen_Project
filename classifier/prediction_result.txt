@@ -1,3 +1,5 @@
+The number of trees in the RandomForestClassifier is 10
+
 For the left matrix in pssm file:
 
 The average accuracy of n = 1, lam = 39: 0.820338662706
