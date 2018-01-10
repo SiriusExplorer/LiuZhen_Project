@@ -1,5 +1,5 @@
 # This file creates the input vectors from DeepLoc dataset (Include AAcomposition, pseudoAAcomposition, PSSM profile)
-
+# Using the right matrix in the pssm file
 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.datasets import make_classification
