@@ -1,3 +1,6 @@
+# This script calculate the accuracy, mcc and f1 score of the RandomForestClassifier based on the 10 fold cross validation.
+# The parameters N = 1, LAM = 39; or N = 3, LAM = 12; the number of tree change in the interval [(x + 1) * 10 for x in range(10)]
+
 import numpy as np
 from sklearn.model_selection import StratifiedKFold
 from sklearn.metrics import accuracy_score
