@@ -1,0 +1,118 @@
+The number of trees in Randomforest: 10
+The average accuracy of n = 2, lam = 19: 0.814211375361
+The average mcc of n = 2, lam = 19: 0.538622413674
+The average f1 score of n = 2, lam = 19: 0.64073152007
+
+
+The number of trees in Randomforest: 10
+The average accuracy of n = 4, lam = 9: 0.812096450457
+The average mcc of n = 4, lam = 9: 0.531600609113
+The average f1 score of n = 4, lam = 9: 0.633645385396
+
+
+The number of trees in Randomforest: 20
+The average accuracy of n = 2, lam = 19: 0.83499997338
+The average mcc of n = 2, lam = 19: 0.595087943941
+The average f1 score of n = 2, lam = 19: 0.687412469447
+
+
+The number of trees in Randomforest: 20
+The average accuracy of n = 4, lam = 9: 0.830842051462
+The average mcc of n = 4, lam = 9: 0.583857775786
+The average f1 score of n = 4, lam = 9: 0.676880806082
+
+
+The number of trees in Randomforest: 30
+The average accuracy of n = 2, lam = 19: 0.843244049045
+The average mcc of n = 2, lam = 19: 0.616823496092
+The average f1 score of n = 2, lam = 19: 0.707284500128
+
+
+The number of trees in Randomforest: 30
+The average accuracy of n = 4, lam = 9: 0.840399037412
+The average mcc of n = 4, lam = 9: 0.610518831968
+The average f1 score of n = 4, lam = 9: 0.697551856644
+
+
+The number of trees in Randomforest: 40
+The average accuracy of n = 2, lam = 19: 0.846087782907
+The average mcc of n = 2, lam = 19: 0.624852125529
+The average f1 score of n = 2, lam = 19: 0.7126716729
+
+
+The number of trees in Randomforest: 40
+The average accuracy of n = 4, lam = 9: 0.84557773909
+The average mcc of n = 4, lam = 9: 0.624523536848
+The average f1 score of n = 4, lam = 9: 0.711240885749
+
+
+The number of trees in Randomforest: 50
+The average accuracy of n = 2, lam = 19: 0.847328658819
+The average mcc of n = 2, lam = 19: 0.62849949422
+The average f1 score of n = 2, lam = 19: 0.716556485017
+
+
+The number of trees in Randomforest: 50
+The average accuracy of n = 4, lam = 9: 0.847693462601
+The average mcc of n = 4, lam = 9: 0.62994708139
+The average f1 score of n = 4, lam = 9: 0.715001997805
+
+
+The number of trees in Randomforest: 60
+The average accuracy of n = 2, lam = 19: 0.848787394783
+The average mcc of n = 2, lam = 19: 0.632436357607
+The average f1 score of n = 2, lam = 19: 0.719907960604
+
+
+The number of trees in Randomforest: 60
+The average accuracy of n = 4, lam = 9: 0.848057521017
+The average mcc of n = 4, lam = 9: 0.630244858859
+The average f1 score of n = 4, lam = 9: 0.714597759194
+
+
+The number of trees in Randomforest: 70
+The average accuracy of n = 2, lam = 19: 0.851194450212
+The average mcc of n = 2, lam = 19: 0.640945305079
+The average f1 score of n = 2, lam = 19: 0.726363619807
+
+
+The number of trees in Randomforest: 70
+The average accuracy of n = 4, lam = 9: 0.848714987728
+The average mcc of n = 4, lam = 9: 0.632857498194
+The average f1 score of n = 4, lam = 9: 0.716508755437
+
+
+The number of trees in Randomforest: 80
+The average accuracy of n = 2, lam = 19: 0.851777273768
+The average mcc of n = 2, lam = 19: 0.640914362839
+The average f1 score of n = 2, lam = 19: 0.726853058196
+
+
+The number of trees in Randomforest: 80
+The average accuracy of n = 4, lam = 9: 0.851850852114
+The average mcc of n = 4, lam = 9: 0.640640262105
+The average f1 score of n = 4, lam = 9: 0.72308712714
+
+
+The number of trees in Randomforest: 90
+The average accuracy of n = 2, lam = 19: 0.851851171557
+The average mcc of n = 2, lam = 19: 0.640937348871
+The average f1 score of n = 2, lam = 19: 0.723878875213
+
+
+The number of trees in Randomforest: 90
+The average accuracy of n = 4, lam = 9: 0.848495743423
+The average mcc of n = 4, lam = 9: 0.633431018508
+The average f1 score of n = 4, lam = 9: 0.717913774468
+
+
+The number of trees in Randomforest: 100
+The average accuracy of n = 2, lam = 19: 0.854549771865
+The average mcc of n = 2, lam = 19: 0.648069092629
+The average f1 score of n = 2, lam = 19: 0.731320427979
+
+
+The number of trees in Randomforest: 100
+The average accuracy of n = 4, lam = 9: 0.848131152603
+The average mcc of n = 4, lam = 9: 0.632359093531
+The average f1 score of n = 4, lam = 9: 0.715589599512
