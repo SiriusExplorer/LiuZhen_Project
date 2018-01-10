@@ -1,0 +1,91 @@
+The parameters N = 1, LAM = 39; or N = 3, LAM = 12; the number of tree change in the interval [(x + 1) * 10 for x in range(10)]
+
+The number of trees in Randomforest: 10
+The average accuracy of n = 1, lam = 39: 0.82617435193
+The average mcc of n = 1, lam = 39: 0.568579646811
+The average f1 score of n = 1, lam = 39: 0.669921409947
+The number of trees in Randomforest: 10
+The average accuracy of n = 3, lam = 12: 0.818441438132
+The average mcc of n = 3, lam = 12: 0.550357917682
+The average f1 score of n = 3, lam = 12: 0.650607499153
+
+The number of trees in Randomforest: 20
+The average accuracy of n = 1, lam = 39: 0.834344370085
+The average mcc of n = 1, lam = 39: 0.595451512283
+The average f1 score of n = 1, lam = 39: 0.693840135433
+The number of trees in Randomforest: 20
+The average accuracy of n = 3, lam = 12: 0.83120749413
+The average mcc of n = 3, lam = 12: 0.585740818403
+The average f1 score of n = 3, lam = 12: 0.682669687851
+
+The number of trees in Randomforest: 30
+The average accuracy of n = 1, lam = 39: 0.840543638561
+The average mcc of n = 1, lam = 39: 0.61232335003
+The average f1 score of n = 1, lam = 39: 0.707194847537
+The number of trees in Randomforest: 30
+The average accuracy of n = 3, lam = 12: 0.839814776363
+The average mcc of n = 3, lam = 12: 0.608617628855
+The average f1 score of n = 3, lam = 12: 0.697219680325
+
+The number of trees in Randomforest: 40
+The average accuracy of n = 1, lam = 39: 0.848276818562
+The average mcc of n = 1, lam = 39: 0.632214421272
+The average f1 score of n = 1, lam = 39: 0.722372091793
+The number of trees in Randomforest: 40
+The average accuracy of n = 3, lam = 12: 0.843243729602
+The average mcc of n = 3, lam = 12: 0.619942353967
+The average f1 score of n = 3, lam = 12: 0.708109199988
+
+The number of trees in Randomforest: 50
+The average accuracy of n = 1, lam = 39: 0.848714348842
+The average mcc of n = 1, lam = 39: 0.63303528652
+The average f1 score of n = 1, lam = 39: 0.722261868601
+The number of trees in Randomforest: 50
+The average accuracy of n = 3, lam = 12: 0.846234833118
+The average mcc of n = 3, lam = 12: 0.627212037262
+The average f1 score of n = 3, lam = 12: 0.712900830655
+
+The number of trees in Randomforest: 60
+The average accuracy of n = 1, lam = 39: 0.849954372907
+The average mcc of n = 1, lam = 39: 0.636420140107
+The average f1 score of n = 1, lam = 39: 0.725885669512
+The number of trees in Randomforest: 60
+The average accuracy of n = 3, lam = 12: 0.846161148291
+The average mcc of n = 3, lam = 12: 0.627396824897
+The average f1 score of n = 3, lam = 12: 0.713600525398
+
+The number of trees in Randomforest: 70
+The average accuracy of n = 1, lam = 39: 0.851194556693
+The average mcc of n = 1, lam = 39: 0.640034926344
+The average f1 score of n = 1, lam = 39: 0.72898604447
+The number of trees in Randomforest: 70
+The average accuracy of n = 3, lam = 12: 0.851778285337
+The average mcc of n = 3, lam = 12: 0.640420739143
+The average f1 score of n = 3, lam = 12: 0.724298732286
+
+The number of trees in Randomforest: 80
+The average accuracy of n = 1, lam = 39: 0.850976110996
+The average mcc of n = 1, lam = 39: 0.641415769713
+The average f1 score of n = 1, lam = 39: 0.729196297645
+The number of trees in Randomforest: 80
+The average accuracy of n = 3, lam = 12: 0.849443743445
+The average mcc of n = 3, lam = 12: 0.635477018599
+The average f1 score of n = 3, lam = 12: 0.720173976458
+
+The number of trees in Randomforest: 90
+The average accuracy of n = 1, lam = 39: 0.853455892923
+The average mcc of n = 1, lam = 39: 0.646923229429
+The average f1 score of n = 1, lam = 39: 0.733687324516
+The number of trees in Randomforest: 90
+The average accuracy of n = 3, lam = 12: 0.853674658063
+The average mcc of n = 3, lam = 12: 0.646910263747
+The average f1 score of n = 3, lam = 12: 0.729368324761
+
+The number of trees in Randomforest: 100
+The average accuracy of n = 1, lam = 39: 0.852799278059
+The average mcc of n = 1, lam = 39: 0.644367037378
+The average f1 score of n = 1, lam = 39: 0.730851686945
+The number of trees in Randomforest: 100
+The average accuracy of n = 3, lam = 12: 0.851632406417
+The average mcc of n = 3, lam = 12: 0.64096523111
+The average f1 score of n = 3, lam = 12: 0.725015181327
